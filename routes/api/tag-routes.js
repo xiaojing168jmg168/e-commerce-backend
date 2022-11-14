@@ -68,6 +68,7 @@ try{
        id: req.params.id
     }
     })
+    res.status(200).json({message: 'tag already deleted!'});
     if(!tagDate){
        res.status(404).json({message: 'No tag found with this id!'})
        return;
