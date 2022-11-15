@@ -6,7 +6,7 @@
 
 
 ## Description
-🔍 As a manager at an internet retail company, you can add a database name within the backend. You can select all of your categories, products, and tags. You can select a single category, product, tag through different ids. You also can create ,update, or delete category, product, and tag. The walkthrough video file is created in the utils directory and can be found [here](utils/E-Commerce-2.mp4).
+🔍 As a manager at an internet retail company, you can add a database name within the backend. You can select all of your categories, products, and tags. You can select a single category, product, tag through different ids. You also can create ,update, or delete category, product, and tag. The walkthrough video file is created in the utils directory and can be found [here](utils/ecommerce-4.mp4).
 
 <video  width="500" height="400" controls>
   <source src="utils/ecommerce-4.mp4" type="video/mp4">
