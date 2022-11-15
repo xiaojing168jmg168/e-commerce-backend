@@ -1,10 +1,7 @@
 <h1>E-commerce Back End👋</h1>
 
 ## Badges
-![badge](https://img.shields.io/github/languages/top/xiaojing168jmg168//e-commerce-backend)
-<br> 
-![badge](https://img.shields.io/github/languages/count/xiaojing168jmg168//e-commerce-backend)
-<br>
+
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 
@@ -15,7 +12,10 @@
   <source src="utils/ecommerce-4.mp4" type="video/mp4">
 </video>
 
-![screenshot](utils/screenshot.jpg)
+
+https://user-images.githubusercontent.com/110792983/201952734-8d46d5c5-1549-444c-83ca-90e502fbb924.mp4
+
+
 
 ## Table of Contents
 - [Description](#description)
